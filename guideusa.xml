@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="USA G: NBC 4 NY FHD">
+    <display-name lang="en">USA G: NBC 4 NY FHD</display-name>
+    <url>http://www.tv.com</url>
+  </channel>
+  <programme start="20180616003500 -0400" stop="20180616013500 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Late Night With Seth Meyers</title>
+    <sub-title lang="en">Reese Witherspoon; David Remnick</sub-title>
+    <desc lang="en">Reese Witherspoon; and David Remnick. Also: Zach Danziger sits in with the 8G Band(n)</desc>
+    <credits>
+      <actor>Seth Meyers</actor>
+      <actor>Fred Armisen</actor>
+      <actor>8G Band</actor>
+      <actor>A Great Big World</actor>
+      <writer>Seth Meyers</writer>
+      <writer>John Lutz</writer>
+      <producer>Mike Shoemaker</producer>
+    </credits>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/183364.jpg" />
+    <episode-num system="onscreen">S5 E75</episode-num>
+    <star-rating>
+      <value>3.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20180616013500 -0400" stop="20180616020500 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Last Call With Carson Daly</title>
+    <sub-title lang="en">Tony Hale; The Aces; Melissa Barrera &amp; Mishel Prada</sub-title>
+    <desc lang="en">Tony Hale; and Melissa Barrera and Mishel Prada. Also: the Aces perform(n)</desc>
+    <credits>
+      <actor>Carson Daly</actor>
+    </credits>
+    <category lang="en">Comedy</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Interview</category>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/7717.jpg" />
+    <episode-num system="onscreen">S17 E85</episode-num>
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20180616020500 -0400" stop="20180616030500 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Steve</title>
+    <sub-title lang="en">Tyra Banks; Carolyn London; Panel: Garcelle Beauvais; Rachel Lindsay; Emily Skye</sub-title>
+    <desc lang="en">Tyra Banks ("Perfect is Boring" book) and her mother Carolyn London. Panel: Garcelle Beauvais; Rachel Lindsay; and Emily Skye(n)</desc>
+  </programme>
+  <programme start="20180616030500 -0400" stop="20180616040000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">American Ninja Warrior</title>
+    <sub-title lang="en">National Finals Week 2 Hour 2</sub-title>
+    <desc lang="en">In Las Vegas, the finalists tackle the first stage of a four-stage course modeled after the Mount Midoriyama course in Japan. Obstacles include the Snake Run, Giant Log Grip, Broken Bridge and Flying Squirrel(n)</desc>
+    <credits>
+      <director>Patrick McManus</director>
+      <actor>Matt Iseman</actor>
+      <actor>Akbar Gbaja-Biamila</actor>
+      <actor>Kristine Leahy</actor>
+    </credits>
+    <category lang="en">Game Show</category>
+    <category lang="en">Sports</category>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/81687.jpg" />
+    <star-rating>
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20180616040000 -0400" stop="20180616043000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">1st Look</title>
+    <desc lang="en">An entertainment guide to restaurants, nightlife and travel across the country(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/87941.jpg" />
+    <star-rating>
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20180616043000 -0400" stop="20180616050000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">HouseSmarts</title>
+    <desc lang="en">Do-it-yourself home-improvement tips and projects are featured, along with advice on financing(n)</desc>
+  </programme>
+  <programme start="20180616050000 -0400" stop="20180616053000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">1st Look</title>
+    <desc lang="en">An entertainment guide to restaurants, nightlife and travel across the country(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/87941.jpg" />
+    <star-rating>
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20180616053000 -0400" stop="20180616060000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Open House NYC</title>
+    <desc lang="en">A series offering home-improvement and design tips, as well as spotlighting prime properties(n)</desc>
+  </programme>
+  <programme start="20180616060000 -0400" stop="20180616070000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Saturday Today in New York</title>
+    <desc lang="en">Newsmagazine program offers a mix of news, features, current events and interviews with movers and shakers, sports figures and entertainment personalities(n)</desc>
+  </programme>
+  <programme start="20180616070000 -0400" stop="20180616090000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Today</title>
+    <sub-title lang="en">06-16-2018</sub-title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20180616090000 -0400" stop="20180616100000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Today in New York</title>
+    <desc lang="en">Newsmagazine program offers a mix of news, features, current events and interviews with movers and shakers, sports figures and entertainment personalities(n)</desc>
+  </programme>
+  <programme start="20180616100000 -0400" stop="20180616103000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Open House</title>
+    <sub-title lang="en">06-16-2018</sub-title>
+    <desc lang="en">No additional information is available(n)</desc>
+  </programme>
+  <programme start="20180616103000 -0400" stop="20180616110000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Wilderness Vet</title>
+    <sub-title lang="en">Dogs &amp; Hogs</sub-title>
+    <desc lang="en">Whether they bark or oink, dogs and pigs are considered to be some of the most loyal pets, that's why Dr. Oakley is so passionate about helping these animals(n)</desc>
+  </programme>
+  <programme start="20180616110000 -0400" stop="20180616113000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Journey with Dylan Dreyer</title>
+    <sub-title lang="en">The Mighty Pacific Ocean</sub-title>
+    <desc lang="en">An exploration of the Pacific reveals the amazing animals, habitats, and secrets that swim beneath the waves. Included: How the Pacific Ocean powers the climates of the world and affects every living thing on Earth(n)</desc>
+  </programme>
+  <programme start="20180616113000 -0400" stop="20180616120000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Naturally, Danny Seo</title>
+    <sub-title lang="en">Square Roots</sub-title>
+    <desc lang="en">Danny reveals two ingredient dishes; upcycles old computer keyboards into modern art, and learns about vertical planting in Brooklyn(n)</desc>
+  </programme>
+  <programme start="20180616120000 -0400" stop="20180616123000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Health + Happiness With Mayo Clinic</title>
+    <sub-title lang="en">The ABC's of Staying Safe From Ticks</sub-title>
+    <desc lang="en">Joy goes to a farm to explore how milk is produced, makes a healthier "fried" chicken, and gives ideas for how to avoid the mountains of sugar found in soda. Viv explains staying safe from ticks is as easy as ABC, shows how to hunt for hidden sugars, and shares her tips for safer picnics(n)</desc>
+  </programme>
+  <programme start="20180616123000 -0400" stop="20180616130000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">The Champion Within</title>
+    <sub-title lang="en">Inspire and Desire</sub-title>
+    <desc lang="en">Olympic Gold Medalist Maddie Bowman is inspired by her mother; and American skier Gus Kenworthy takes a life changing trip to Uganda(n)</desc>
+  </programme>
+  <programme start="20180616130000 -0400" stop="20180616133000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">The Voyager With Josh Garcia</title>
+    <sub-title lang="en">Kicking It, Rio Style</sub-title>
+    <desc lang="en">Josh sails into the world famous city of Rio de Janeiro, Brazil. At one of the city's colorful open air markets, Josh discovers Brazil's vast array of exotic fruit and sinks his teeth into some of its juicy bounty. Next, Josh teams up with a local soccer player who teaches him how to master Brazil's national sport. Josh's final excursion is a thrilling adventure as he tours Rio from the sky, hang gliding high above the city(n)</desc>
+  </programme>
+  <programme start="20180616133000 -0400" stop="20180616140000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">The Champion Within</title>
+    <sub-title lang="en">Inspire and Desire</sub-title>
+    <desc lang="en">Olympic Gold Medalist Maddie Bowman is inspired by her mother; and American skier Gus Kenworthy takes a life changing trip to Uganda(n)</desc>
+  </programme>
+  <programme start="20180616140000 -0400" stop="20180616143000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(n)</desc>
+  </programme>
+  <programme start="20180616143000 -0400" stop="20180616150000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(n)</desc>
+  </programme>
+  <programme start="20180616150000 -0400" stop="20180616160000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Motocross</title>
+    <desc lang="en">AMA Lucas Oil Pro Championships from High Point Raceway in Mount Morris, Pa(n)</desc>
+  </programme>
+  <programme start="20180616160000 -0400" stop="20180616170000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Shotgun</title>
+    <desc lang="en">A game show with contestants answering questions while riding in a professional race car(n)</desc>
+  </programme>
+  <programme start="20180616170000 -0400" stop="20180616180000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Driven: Oklahoma State Cowboys</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">An inside look at the Oklahoma State Cowboys golf team as they advance to the NCAA Championship on their home turf in Stillwater. The match-play final pits Alabama against OSU in its pursuit of an 11th national title(n)</desc>
+  </programme>
+  <programme start="20180616180000 -0400" stop="20180616183000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">News 4 New York at 6</title>
+    <desc lang="en">Local news, sports and weather(n)</desc>
+  </programme>
+  <programme start="20180616183000 -0400" stop="20180616190000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">NBC Nightly News With Lester Holt</title>
+    <sub-title lang="en">06-16-2018</sub-title>
+    <desc lang="en">A summary of the day's news(n)</desc>
+  </programme>
+  <programme start="20180616190000 -0400" stop="20180616193000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming(n)</desc>
+  </programme>
+  <programme start="20180616193000 -0400" stop="20180616200000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">1st Look</title>
+    <desc lang="en">An entertainment guide to restaurants, nightlife and travel across the country(n)</desc>
+    <category lang="en">News</category>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/87941.jpg" />
+    <star-rating>
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20180616200000 -0400" stop="20180616230000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Jurassic Park</title>
+    <desc lang="en">Spielberg blockbuster about a theme park whose main attractions are genetically engineered dinosaurs, which escape, plunging a group of visitors into a terrifying ordealThe nightmare begins when a crooked employee lets the creatures out of their enclosures whilst the park's owner is touring with his grandchildren and three awestruck scientistsThe spectacular special effects earned the film one of its three Oscars(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Sam Neill</actor>
+      <actor>Laura Dern</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Bob Peck</actor>
+      <actor>Martin Ferrero</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Joseph Mazzello</actor>
+      <actor>Wayne Knight</actor>
+      <actor>Ariana Richards</actor>
+      <actor>BD Wong</actor>
+      <actor>Gerald R. Molen</actor>
+      <actor>Miguel Sandoval</actor>
+      <actor>Cameron Thor</actor>
+      <actor>Christopher John Fields</actor>
+      <producer>Gerald R. Molen</producer>
+      <producer>Kathleen Kennedy (I)</producer>
+    </credits>
+    <date>1993</date>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Suspense</category>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/116305.jpg" />
+    <rating system="US">
+      <value>PG-13</value>
+    </rating>
+    <star-rating>
+      <value>9.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20180616230000 -0400" stop="20180616233000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">News 4 New York at 11</title>
+    <desc lang="en">Local news, sports and weather(n)</desc>
+  </programme>
+  <programme start="20180616233000 -0400" stop="20180617010000 -0400" channel="USA G: NBC 4 NY FHD">
+    <title lang="en">Saturday Night Live</title>
+    <desc lang="en">Landmark, Emmy-winning satire from an ever-changing company of 'Not Ready for Prime Time Players' who rode the variety show to fame, including (to name just a few of its celebrated grads) Eddie Murphy, Dana Carvey, Chevy Chase, Bill Murray, Dan Aykroyd, Al Franken and Mike Myers(n)</desc>
+    <credits>
+      <director>Don Roy King</director>
+      <director>Beth McCarthy-Miller</director>
+      <director>James Signorelli</director>
+      <director>Paul Miller (I)</director>
+      <director>Dave Wilson</director>
+      <actor>Chris Redd</actor>
+      <actor>Luke Null</actor>
+      <actor>Heidi Gardner</actor>
+      <actor>Melissa Villasenor</actor>
+      <actor>Alex Moffat</actor>
+      <actor>Mikey Day</actor>
+      <actor>Jon Rudnitsky</actor>
+      <actor>Leslie Jones</actor>
+      <actor>Colin Jost</actor>
+      <actor>Pete Davidson</actor>
+      <actor>Michael Che</actor>
+      <actor>Seth Meyers</actor>
+      <actor>Sasheer Zamata</actor>
+      <actor>Brooks Wheelan</actor>
+      <actor>Tina Fey</actor>
+      <actor>Noël Wells</actor>
+      <actor>Kyle Mooney</actor>
+      <actor>John Milhiser</actor>
+      <actor>Beck Bennett</actor>
+      <actor>Michael Patrick O'Brien</actor>
+      <actor>Aidy Bryant</actor>
+      <actor>Tim Robinson (II)</actor>
+      <actor>Fred Wolf (II)</actor>
+      <actor>Cecily Strong</actor>
+      <actor>Kate McKinnon (I)</actor>
+      <actor>Paul Brittain</actor>
+      <actor>Vanessa Bayer</actor>
+      <actor>Jay Pharaoh</actor>
+      <actor>Robert Smigel</actor>
+      <actor>Taran Killam</actor>
+      <actor>Jenny Slate</actor>
+      <actor>Nasim Pedrad</actor>
+      <actor>Michaela Watkins</actor>
+      <actor>Abby Elliott</actor>
+      <actor>Bobby Moynihan</actor>
+      <actor>Terry Sweeney</actor>
+      <actor>Casey Wilson</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Don Novello</actor>
+      <actor>Andy Samberg</actor>
+      <actor>James Downey</actor>
+      <actor>Bill Hader</actor>
+      <actor>Tom Schiller</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Tom Davis</actor>
+      <actor>Rob Riggle</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Michael O'Donoghue</actor>
+      <actor>Finesse Mitchell</actor>
+      <actor>Will Forte</actor>
+      <writer>Julio Torres</writer>
+      <writer>Megan Callahan</writer>
+      <writer>LaKendra Tookes</writer>
+      <writer>Sarah Schneider</writer>
+      <writer>John Mulaney</writer>
+      <producer>Steve Higgins (I)</producer>
+      <producer>Michael Shoemaker</producer>
+      <producer>Marci Klein</producer>
+      <producer>Lorne Michaels</producer>
+      <producer>Mike Bosze</producer>
+    </credits>
+    <category lang="en">Comedy</category>
+    <icon src="http://img2.tvtome.com/i/tvp/sm/365.jpg" />
+    <star-rating>
+      <value>8.2</value>
+    </star-rating>
+  </programme>
+</tv>
